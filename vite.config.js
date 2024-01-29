@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/PowerPulse/',
+  base: '/fs-86-react-node-NikNas1405/',
 });
