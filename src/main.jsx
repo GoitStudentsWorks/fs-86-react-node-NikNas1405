@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/PowerPulse">
+        <BrowserRouter basename="/fs-86-react-node-NikNas1405">
           <App />
         </BrowserRouter>
       </PersistGate>
